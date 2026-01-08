@@ -1,5 +1,3 @@
-# Z-TELEGRAM
-Powered by DEV•ZIKKY MD------STILL IN TESTING PHASE
 # 🤖 DEV•ZIKKY Telegram Bot
 
 > ⚠️ **WARNING: This bot is currently in TESTING PHASE**
@@ -30,11 +28,4 @@ Powered by DEV•ZIKKY MD------STILL IN TESTING PHASE
    - **Value:** Your bot token from @BotFather
 6. Click **"Create Web Service"**
 
-### **Step 3: Configure Channels**
-Update in `bot.py` if needed:
-```python
-REQUIRED_CHANNELS = [
-    "@zikkycal",      # Your Channel 1
-    "@otp_ch1",       # Your Channel 2
-    "@f_9tp1"         # Your Group
-]
+## 📁 Project Structure
